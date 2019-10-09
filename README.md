@@ -27,7 +27,7 @@ FULL Code Cuda:
 
 Cuda 10.1 Windows, Linux
 ------------------------
-https://satoshidisk.com/pay/C7YK1e
+https://satoshidisk.com/pay/C7eKCe
 
 Bitcoin challenge transaction: ~102 BTC total bounty to solvers!
 
